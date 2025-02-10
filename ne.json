@@ -1,0 +1,144 @@
+{
+  "categoryId": "cat150006",
+  "childCategories": [
+    {
+      "categoryId": "cat1230034",
+      "displayName": "Moisturizers",
+      "hasChildCategories": true,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/moisturizing-cream-oils-mists"
+    },
+    {
+      "categoryId": "cat1230033",
+      "displayName": "Cleansers",
+      "hasChildCategories": true,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/cleanser"
+    },
+    {
+      "categoryId": "cat1230035",
+      "displayName": "Treatments",
+      "hasChildCategories": true,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/facial-treatments"
+    },
+    {
+      "categoryId": "cat1440038",
+      "displayName": "Masks",
+      "hasChildCategories": true,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/face-mask"
+    },
+    {
+      "categoryId": "cat1600040",
+      "displayName": "Eye Care",
+      "hasChildCategories": true,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/eye-treatment-dark-circle-treatment"
+    },
+    {
+      "categoryId": "cat60109",
+      "displayName": "Lip Balms & Treatments",
+      "hasChildCategories": false,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/lip-balm-lip-care"
+    },
+    {
+      "categoryId": "cat60113",
+      "displayName": "Sunscreen",
+      "hasChildCategories": true,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/sunscreen-sun-protection"
+    },
+    {
+      "categoryId": "cat1230036",
+      "displayName": "Self Tanners",
+      "hasChildCategories": true,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/self-tanning-products"
+    },
+    {
+      "categoryId": "cat1600043",
+      "displayName": "High Tech Tools",
+      "hasChildCategories": true,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/skin-care-tools"
+    },
+    {
+      "categoryId": "cat1860031",
+      "displayName": "Wellness",
+      "hasChildCategories": true,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/wellness-skincare"
+    },
+    {
+      "categoryId": "cat1550033",
+      "displayName": "Shop by Concern",
+      "hasChildCategories": true,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/skin-care-solutions"
+    },
+    {
+      "categoryId": "cat1960033",
+      "displayName": "Clean Skincare",
+      "hasChildCategories": false,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/clean-skin-care"
+    },
+    {
+      "categoryId": "cat2900031",
+      "displayName": "Vegan",
+      "hasChildCategories": false,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/vegan-skin-care"
+    },
+    {
+      "categoryId": "cat60105",
+      "displayName": "Value & Gift Sets",
+      "hasChildCategories": false,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/skin-care-sets-travel-value"
+    },
+    {
+      "categoryId": "cat1830034",
+      "displayName": "Mini Size",
+      "hasChildCategories": false,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/mini-skincare"
+    },
+    {
+      "categoryId": "cat5000005",
+      "displayName": "FSA & HSA Eligible",
+      "hasChildCategories": false,
+      "hasDropdownMenu": false,
+      "megaNavColumn": 0,
+      "targetUrl": "/shop/fsa-eligible-products"
+    }
+  ],
+  "displayName": "Skincare",
+  "enableNoindexMetaTag": false,
+  "hasChildCategories": true,
+  "hasDropdownMenu": false,
+  "seoCanonicalUrl": "/shop/skincare",
+  "seoKeywords": [],
+  "seoMetaDescription": "Shop skincare products at Sephora. Find top-rated products from leading skincare brands to help target specific skin concerns and revitalize your look.",
+  "seoName": "skincare",
+  "seoTitle": "Skincare Products | Sephora",
+  "targetUrl": "/shop/skincare",
+  "template": 0
+}
