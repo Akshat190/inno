@@ -5,6 +5,9 @@ import pandas as pd
 # Load the cleaned CSV file into a pandas DataFrame
 df = pd.read_csv("ulta_sephora_with_mst_index.csv")
 
+# Load the H&M products CSV file
+hm_df = pd.read_csv("hm_products.csv")
+
 # Initialize the FastAPI app
 app = FastAPI()
 
@@ -50,4 +53,14 @@ def get_data(
         "limit": limit,
         "total_items": total_items,
         "total_pages": total_pages,
+    }
+
+@app.get("/api/random-outfits")
+async def get_random_outfits(limit: int = Query(default=8)):
+    # Randomly sample products from the H&M dataset
+    random_products = hm_df.sample(n=min(limit, len(hm_df))).to_dict(orient="records")
+    
+    return {
+        "data": random_products,
+        "total_items": len(random_products)
     }
